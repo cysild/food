@@ -1,0 +1,181 @@
+@media only screen and (max-width: 239px) 
+{
+	
+}
+@media only screen and (min-width: 240px) and (max-width: 319px) 
+{
+   
+}
+@media only screen and (min-width: 320px) and (max-width: 369px) 
+{
+	.nav>li>a { padding: 10px 23px; }
+	#listing-page .location:after{ right: 0px; top: 12px;cursor: pointer; }
+	#listing-page .location:before{ right: -7px; top: 10px; }
+	#listing-page .location select { padding-right: 50px; }
+	.visible-scrollbar, .invisible-scrollbar, .mostly-customized-scrollbar{ height: 70vh; }
+	#listing-page .col3-cart{ margin-top:10px;    margin-bottom: 100px; }
+	#listing-page .panel-footer .sc-cart-toolbar button{ padding: 7px 27px; }
+	#listing-page .col2-listitems h4{ font-size: 16px; }
+	#listing-page .mobile-con{ padding: 0; }
+	#listing-page #menu-list h4{ font-family: 'AvenirNextCyr-regular'; font-weight: 600; font-size: 13px;}
+	#listing-page #menu-list h3{ font-family: 'AvenirNextCyr-regular'; font-weight: 600; font-size: 20px;}
+	footer{ margin-top: 20px; width: 100%; margin-left: 15px;}
+
+	
+}
+@media only screen and (min-width: 370px) and (max-width: 424px) 
+{
+  	.nav>li>a { padding: 10px 36.7px; }
+  	#listing-page .location:after{ right: 0px; top: 12px; }
+  	#listing-page .location:before{ right: -7px; top: 10px; }
+	#listing-page .location select { padding-right: 75px; }
+	.visible-scrollbar, .invisible-scrollbar, .mostly-customized-scrollbar{ height: 70vh; }
+	#listing-page .col3-cart{ margin-top:10px;    margin-bottom: 100px; }
+	#listing-page .panel-footer .sc-cart-toolbar button{ padding: 7px 27px; }
+	#listing-page .mobile-con{ padding: 0; }
+	#listing-page #menu-list h4{ font-family: 'AvenirNextCyr-regular'; font-weight: 600; font-size: 14px;}
+	#listing-page #menu-list h3{ font-family: 'AvenirNextCyr-regular'; font-weight: 600; font-size: 20px;}
+	footer{ margin-top: 20px; width: 100%; margin-left: 15px;}
+}
+@media only screen and (min-width: 425px) and (max-width: 479px) 
+{
+	.nav>li>a { padding: 10px 36.7px; }
+  	#listing-page .location:after{ right: 0px; top: 12px; }
+  	#listing-page .location:before{ right: -7px; top: 10px; }
+	#listing-page .location select { padding-right: 100px; }
+	.visible-scrollbar, .invisible-scrollbar, .mostly-customized-scrollbar{ height: 70vh; }
+	#listing-page .col3-cart{ margin-top:10px;    margin-bottom: 100px; }
+	#listing-page .panel-footer .sc-cart-toolbar button{ padding: 7px 27px; }
+	#listing-page .mobile-con{ padding: 0; }
+	#listing-page #menu-list h4{ font-family: 'AvenirNextCyr-regular'; font-weight: 600; font-size: 14px;}
+	#listing-page #menu-list h3{ font-family: 'AvenirNextCyr-regular'; font-weight: 600; font-size: 20px;}
+	footer{ margin-top: 20px; width: 100%; margin-left: 15px;}
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) 
+{
+	.nav>li>a { padding: 10px 36.7px; }
+  	#listing-page .location:after{ right: 0px; top: 12px; }
+  	#listing-page .location:before{ right: -7px; top: 10px; }
+	#listing-page .location select { padding-right: 130px; }
+	.visible-scrollbar, .invisible-scrollbar, .mostly-customized-scrollbar{ height: 70vh; }
+	#listing-page .col3-cart{ margin-top:10px;    margin-bottom: 100px; }
+	#listing-page .panel-footer .sc-cart-toolbar button{ padding: 7px 27px; }
+	#listing-page .mobile-con{ padding: 0; }
+	#listing-page #menu-list h4{ font-family: 'AvenirNextCyr-regular'; font-weight: 600; font-size: 14px;}
+	#listing-page #menu-list h3{ font-family: 'AvenirNextCyr-regular'; font-weight: 600; font-size: 20px;}
+	footer{ margin-top: 20px; width: 100%; margin-left: 15px;}
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) 
+{
+    .nav>li>a { padding: 10px 48px; }
+	.restaurant-selector-inner{ margin-top: 15%; }
+	#home-page { background: url(../images/bg.jpg) repeat fixed 70% center/cover; }
+	#listing-page #cart-mobile{ display: none; }
+	#listing-page .takeaway { margin-top: 15px;}
+	#listing-page .location { margin-top: 10px;}    
+	#listing-page .location:after{ right: 5px; top: 10px; }
+	#mobile-menu-button { position: relative; bottom: 10%; width: 100%; margin: 13px 0px; }
+	#listing-page .location select { padding-right: 130px; }
+	#listing-page #menu-list h4{ font-family: 'AvenirNextCyr-regular'; font-weight: 600; font-size: 14px;}
+	#listing-page #menu-list h3{ font-family: 'AvenirNextCyr-regular'; font-weight: 600; font-size: 20px;}
+	footer{ margin-top: 20px; width: 100%; margin-left: 15px;}
+}
+@media screen and (min-width: 1024px) and (max-width: 1199px) 
+{
+    .nav>li>a { padding: 10px 40.9px; }
+	.restaurant-selector-inner{ margin-top: 15%; }
+	#home-page {
+	    background: url(../images/bg.jpg) repeat fixed 70% center/cover;
+	}
+	#listing-page #mobile-menu-button{ display: none; }
+	#listing-page #cart-mobile{ display: none; }
+	#listing-page .takeaway {
+	    margin-top: 15px;
+	}
+	#listing-page .location {
+	    margin-top: 10px;
+	}    
+	#listing-page .location:after{ right: 5px; top: 10px; }
+	#listing-page #menu-list h4{ font-family: 'AvenirNextCyr-regular'; font-weight: 600; font-size: 14px;}
+	#listing-page #menu-list h3{ font-family: 'AvenirNextCyr-regular'; font-weight: 600; font-size: 20px;}
+	footer{
+		position: absolute;
+	  bottom: 10px;
+	  width: 100%;
+	  margin-left: 15px;
+	}
+}
+@media screen and (min-width: 1200px) and (max-width: 1279px) 
+{
+	.nav>li>a { padding: 10px 61.7px; }
+	#home-page {
+	    background: url(../images/bg.jpg) repeat fixed 70% center/cover;
+	}
+	#listing-page #mobile-menu-button{ display: none; }
+	#listing-page #cart-mobile{ display: none; }
+	#listing-page .takeaway {
+	    margin-top: 15px;
+	}
+	#listing-page .location {
+	    margin-top: 10px;
+	}    
+	#listing-page .location:after{ right: 5px; top: 10px; }
+	#listing-page #menu-list h4{ font-family: 'AvenirNextCyr-regular'; font-weight: 600; font-size: 16px;}
+	#listing-page #menu-list h3{ font-family: 'AvenirNextCyr-regular'; font-weight: 600; font-size: 22px;}
+	footer{
+		position: absolute;
+	  bottom: 10px;
+	  width: 100%;
+	  margin-left: 15px;
+	}
+}
+@media screen and (min-width: 1280px) and (max-width: 1366px) 
+{
+   #listing-page #mobile-menu-button{ display: none; }
+	#listing-page #cart-mobile{ display: none; }
+	footer{
+		position: absolute;
+	  bottom: 10px;
+	  width: 100%;
+	  margin-left: 15px;
+	}
+}
+@media screen and (min-width: 1367px) and (max-width: 1440px) 
+{
+    #listing-page #mobile-menu-button{ display: none; }
+	#listing-page #cart-mobile{ display: none; }
+	#listing-page #menu-list h4{ font-family: 'AvenirNextCyr-regular'; font-weight: 600; font-size: 18px;}
+	#listing-page #menu-list h3{ font-family: 'AvenirNextCyr-regular'; font-weight: 600; font-size: 24px;}
+	footer{
+		position: absolute;
+	  bottom: 10px;
+	  width: 100%;
+	  margin-left: 15px;
+	}
+}
+@media screen and (min-width: 1441px) and (max-width: 1600px) 
+{
+    #listing-page #mobile-menu-button{ display: none; }
+	#listing-page #cart-mobile{ display: none; }
+	#listing-page #menu-list h4{ font-family: 'AvenirNextCyr-regular'; font-weight: 600; font-size: 16px;}
+	#listing-page #menu-list h3{ font-family: 'AvenirNextCyr-regular'; font-weight: 600; font-size: 22px;}
+	footer{
+		position: absolute;
+	  bottom: 10px;
+	  width: 100%;
+	  margin-left: 15px;
+	}
+}
+@media screen and (min-width: 1601px) and (max-width: 2500px) 
+{
+    #listing-page #mobile-menu-button{ display: none; }
+	#listing-page #cart-mobile{ display: none; }
+	#listing-page #menu-list h4{ font-family: 'AvenirNextCyr-regular'; font-weight: 600; font-size: 16px;}
+	#listing-page #menu-list h3{ font-family: 'AvenirNextCyr-regular'; font-weight: 600; font-size: 22px;}
+	footer{
+		position: absolute;
+	  bottom: 10px;
+	  width: 100%;
+	  margin-left: 15px;
+	}
+}

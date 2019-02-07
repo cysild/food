@@ -1,0 +1,12 @@
+.toggle.btn.btn-primary {
+    height: auto!important;
+}
+
+.btn-primary{
+	margin-left: 10px;
+}
+
+.modal-dialog {
+    width: 800px!important;
+
+}
